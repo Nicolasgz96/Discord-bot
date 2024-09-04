@@ -1,0 +1,64 @@
+# Entorno virtual
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración local
+.env
+
+# Archivos de base de datos
+*.db
+*.sqlite3
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE (ajusta según tu IDE)
+.vscode/
+.idea/
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de cobertura de código
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Archivos de pytest
+.pytest_cache/
+
+# Archivos de mypy
+.mypy_cache/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos específicos de tu proyecto (ajusta según sea necesario)
+# config.py
+# secrets.json
+
+# Carpeta de imágenes (si no quieres versionar las imágenes)
+# img/
+
+# Archivos de audio o video (si los hay)
+*.mp3
+*.wav
+*.mp4
+*.avi
