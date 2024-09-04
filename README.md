@@ -60,7 +60,7 @@ A feature-rich Discord bot for playing and managing music in your server.
 
 4. Run the bot:
    ```
-   python bot.py
+   python main.py
    ```
 
 ## Configuration
